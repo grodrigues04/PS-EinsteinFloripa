@@ -25,7 +25,7 @@ Assim, se inicia um loop que itera cada estudante da lista, fatiando a lista gab
 Depois, as variaveis 'inicio' e 'final' sofrem um incremento de 90, para pegar as proximas respostas
 Por fim, cada estudante e suas notas são adicionadas em uma lista chamada 'student', que é adicionada a outra lista chamada 'acertos'
 
-Os resultados de todos os estudantes podem ser vizualizados tanto no console como no aquivo que é gerado.
+Os resultados de todos os estudantes podem ser visualizados tanto no console como no aquivo que é gerado.
 print do resultado no console:
 ![image](https://github.com/grodrigues04/PS-EinsteinFloripa/assets/86443574/67a4b2c6-53eb-455e-8d02-2a219a9654d8)
 
