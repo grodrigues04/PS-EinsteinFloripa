@@ -16,11 +16,11 @@ Em seguida, existem 3 laços de repetição que são executados:
 
 o primeiro serve para pegar todos os estudantes da coluna "aluno_nome" a adiciona a uma lista chamada 'lista_nomes_estudantes";
 
-o segundo coleta o gabarito da prova e armazena cada resposta em uma lista chamada gabarito_lista;
+o segundo coleta o gabarito da prova e armazena cada resposta em uma lista chamada 'gabarito_lista';
 
-O último coleta todas as respostas que estão na coluna 'resp_aluno' e coloca cada uma delas em uma lista chamada gabarito_dos_estudantes.
+O último coleta todas as respostas que estão na coluna 'resp_aluno' e coloca cada uma delas em uma lista chamada 'gabarito_dos_estudantes'.
 
-Coletada todas essas informações, a função chamada notas_individuais_calculo é definida
+Coletada todas essas informações, a função chamada 'notas_individuais_calculo' é definida
 Assim, se inicia um loop que itera cada estudante da lista, fatiando a lista gabarito_do_estudantes para pegar a resposta do respectivo estudante.
 Depois, as variaveis 'inicio' e 'final' sofrem um incremento de 90, para pegar as proximas respostas
 Por fim, cada estudante e suas notas são adicionadas em uma lista chamada 'student', que é adicionada a outra lista chamada 'acertos'
